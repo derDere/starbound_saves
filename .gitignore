@@ -1,0 +1,22 @@
+#General Game Dirs
+_CommonRedist/
+assets/
+doc/
+steam_shader_cache/
+tiled/
+win32/
+win64/
+
+#Mods
+mods/mods_go_here
+
+#Storage
+giraffe_storage/*.log
+giraffe_storage/*.log.*
+koala_storage/*.log
+koala_storage/*.log.*
+storage/*.log
+storage/*.log.*
+
+#The one file ... 
+image.cache
