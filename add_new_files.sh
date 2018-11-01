@@ -4,3 +4,4 @@ git add storage/*
 #git add mods/*
 
 git commit -a -m "add new saves"
+git push
